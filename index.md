@@ -20,11 +20,26 @@ Flix Movie Application that allows users to browse movies from currently ongoing
 
 [iOS Version Here](https://github.com/Kennethli36/FlixMovie)   
 
-<img src="http://g.recordit.co/qhXQG4HK4f.gif" width=250>               
-
 [Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
 
-<img src="http://g.recordit.co/cFqdcpNUzP.gif" width=300>
+<img src="http://g.recordit.co/qhXQG4HK4f.gif" width=250>               
+
+
+
+
+### Twitter Clone
+
+[iOS Version Here](https://github.com/Kennethli36/TwitterClone)
+
+[Android Version Here](https://github.com/Kennethli36/TwitterCloneAndroid)
+
+<img src='http://g.recordit.co/bEzevlkREu.gif'> 
+
+### Instagram Clone
+
+
+<img src='http://g.recordit.co/K21gQ1qNgm.gif' width=250>
+
 
 
 
