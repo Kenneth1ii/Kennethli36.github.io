@@ -27,7 +27,7 @@ Flix Movie Application that allows users to browse movies from currently ongoing
 [iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
 [Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
 
-<img src="https://media4.giphy.com/media/VX4SdMJSyxBXAbqUM4/giphy.gif" width=250>               
+![Image](https://media2.giphy.com/media/VX4SdMJSyxBXAbqUM4/giphy.gif)
 
 <br>
 <br>
