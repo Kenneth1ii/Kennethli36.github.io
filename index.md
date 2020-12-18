@@ -16,7 +16,7 @@ TileMap editior using Canvas allowing you to edit tile changes/layers and export
 Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
 Features include ability to create, read, update and delete excerises. 
 
-<img src='https://media0.giphy.com/media/8pLKimmQ4fDZgozoSR/giphy.gif' title='Video Walkthrough' width='550' alt='Video Walkthrough' />
+<img src='https://media0.giphy.com/media/8pLKimmQ4fDZgozoSR/giphy.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 
 # Mobile Application 
