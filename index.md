@@ -38,7 +38,7 @@ Features include ability to tweet, rewteet, like and post photos.
 
 ### Instagram Clone
 
-Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS.< br />
+Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS. \
 Features include Post, Like, comment.
 
 [iOS Version Here](https://github.com/Kennethli36/InstagramClone) \
