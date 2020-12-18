@@ -1,17 +1,17 @@
 # Web Applications
 
-### GameState
+## GameState
 Rpg Demo using Javascript: [View Project Here](https://kennethli36.github.io/GameState/) 
 
 ![DEMO RPG GIF](https://media1.giphy.com/media/VUVZMl5j68NkgPrIsY/giphy.gif)
 
-### TileMap Editor
+## TileMap Editor
 Map Tile Selection Editor [View Project Here](kennethli36.github.io/TileMap/) \
 TileMap editior using Canvas allowing you to edit tile changes/layers and export to PNG file.
 
 ![tileMap](https://media4.giphy.com/media/FvYy7EKzMcLBf60rzI/giphy.gif)
 
-### Mern Stack Excerise Tracker
+## Mern Stack Excerise Tracker
 
 Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
 Features include ability to create, read, update and delete excerises. 
@@ -21,7 +21,7 @@ Features include ability to create, read, update and delete excerises.
 
 # Mobile Application 
 
-### FlixMovies
+## FlixMovies
 Flix Movie Application that allows users to browse movies from currently ongoing airing movies.
 
 [iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
@@ -32,7 +32,7 @@ Flix Movie Application that allows users to browse movies from currently ongoing
 <br>
 <br>
 
-### Twitter Clone
+## Twitter Clone
 
 Twitter clone for iOS/Android displaying a list of tweets using the [Twitter's API](https://developer.twitter.com/en/docs). <br />
 Features include ability to tweet, rewteet, like and post photos.
@@ -42,7 +42,7 @@ Features include ability to tweet, rewteet, like and post photos.
 
 <img src='http://g.recordit.co/bEzevlkREu.gif' width=200> 
 
-### Instagram Clone
+## Instagram Clone
 
 Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS. \
 Features include Post, Like, comment.
