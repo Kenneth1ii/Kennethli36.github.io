@@ -8,7 +8,7 @@ Rpg Demo using Javascript: [View Project Here](https://kennethli36.github.io/Gam
 ![DEMO RPG GIF](https://media1.giphy.com/media/VUVZMl5j68NkgPrIsY/giphy.gif)
 
 ### TileMap Editor
-Map Tile Selection Editor [View Project Here](kennethli36.github.io/TileMap/) < br />
+Map Tile Selection Editor [View Project Here](kennethli36.github.io/TileMap/) \
 TileMap editior using Canvas allowing you to edit tile changes/layers and export to PNG file.
 
 ![tileMap](https://media4.giphy.com/media/FvYy7EKzMcLBf60rzI/giphy.gif)
@@ -41,8 +41,9 @@ Features include ability to tweet, rewteet, like and post photos.
 Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS.< br />
 Features include Post, Like, comment.
 
-[iOS Version Here](https://github.com/Kennethli36/InstagramClone) <br />
+[iOS Version Here](https://github.com/Kennethli36/InstagramClone) \
 [Android Version Here](https://github.com/Kennethli36/ParseAndroid)
+
 <img src='http://g.recordit.co/K21gQ1qNgm.gif' width=200>
 
 
