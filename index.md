@@ -19,7 +19,7 @@ TileMap editior using Canvas allowing you to edit tile changes/layers and export
 ### FlixMovies
 Flix Movie Application that allows users to browse movies from currently ongoing airing movies.
 
-[iOS Version Here](https://github.com/Kennethli36/FlixMovie)   
+[iOS Version Here](https://github.com/Kennethli36/FlixMovie)
 [Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
 
 <img src="http://g.recordit.co/qhXQG4HK4f.gif" width=250>               
@@ -34,6 +34,7 @@ Twitter clone for iOS/Android displaying a list of tweets using the [Twitter's A
 Features include ability to tweet, rewteet, like and post photos.
 
 [iOS Version Here](https://github.com/Kennethli36/TwitterClone)
+
 [Android Version Here](https://github.com/Kennethli36/TwitterCloneAndroid)
 
 <img src='http://g.recordit.co/bEzevlkREu.gif' width=200> 
