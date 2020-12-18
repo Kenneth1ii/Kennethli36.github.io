@@ -19,7 +19,7 @@ TileMap editior using Canvas allowing you to edit tile changes/layers and export
 ### FlixMovies
 Flix Movie Application that allows users to browse movies from currently ongoing airing movies.
 
-[iOS Version Here](https://github.com/Kennethli36/FlixMovie)
+[iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
 [Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
 
 <img src="http://g.recordit.co/qhXQG4HK4f.gif" width=250>               
