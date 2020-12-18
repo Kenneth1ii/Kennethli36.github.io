@@ -11,7 +11,8 @@ TileMap editior using Canvas allowing you to edit tile changes/layers and export
 
 ![tileMap](https://media4.giphy.com/media/FvYy7EKzMcLBf60rzI/giphy.gif)
 
-## Mern Stack Excerise Tracker
+## Mern Stack Excerise Tracker 
+[View Project Here](https://github.com/Kennethli36/Excerise-Tracker)
 
 Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
 Features include ability to create, read, update and delete excerises. 
@@ -22,11 +23,10 @@ Features include ability to create, read, update and delete excerises.
 # Mobile Applications
 
 ## FlixMovies
+Flix Movie Application that allows users to browse movies from currently ongoing airing movies
 
-Flix Movie Application that allows users to browse movies from currently ongoing airing movies.
-
-[iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
-[Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
+[View iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
+[View Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
 
 <img src="https://media3.giphy.com/media/rqiTXf4wj4k0K7W60Z/giphy.gif" width=250>
 
@@ -44,13 +44,15 @@ Features include ability to tweet, rewteet, like and post photos.
 
 <img src='https://media1.giphy.com/media/lZonIp91lY47ipTSk0/giphy.gif' width=200> 
 
+<br>
+
 ## Instagram Clone
 
 Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS. \
 Features include Post, Like, comment.
 
-[iOS Version Here](https://github.com/Kennethli36/InstagramClone) \
-[Android Version Here](https://github.com/Kennethli36/ParseAndroid)
+[View iOS Version Here](https://github.com/Kennethli36/InstagramClone) \
+[View Android Version Here](https://github.com/Kennethli36/ParseAndroid)
 
 <img src='https://media1.giphy.com/media/EtXMeLQZsapVg2NJxD/giphy.gif' width=200>
 
