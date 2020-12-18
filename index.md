@@ -27,7 +27,7 @@ Flix Movie Application that allows users to browse movies from currently ongoing
 [iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
 [Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
 
-<img src="https://media0.giphy.com/media/i30mJyCskFkyL6MAIV/giphy.gif" width=250>
+<img src="https://media3.giphy.com/media/rqiTXf4wj4k0K7W60Z/giphy.gif" width=250>
 
 <br>
 <br>
@@ -41,7 +41,7 @@ Features include ability to tweet, rewteet, like and post photos.
 [iOS Version Here](https://github.com/Kennethli36/TwitterClone) <br />
 [Android Version Here](https://github.com/Kennethli36/TwitterCloneAndroid)
 
-<img src='http://g.recordit.co/bEzevlkREu.gif' width=200> 
+<img src='https://media1.giphy.com/media/lZonIp91lY47ipTSk0/giphy.gif' width=200> 
 
 ## Instagram Clone
 
@@ -51,7 +51,7 @@ Features include Post, Like, comment.
 [iOS Version Here](https://github.com/Kennethli36/InstagramClone) \
 [Android Version Here](https://github.com/Kennethli36/ParseAndroid)
 
-<img src='http://g.recordit.co/K21gQ1qNgm.gif' width=200>
+<img src='https://media1.giphy.com/media/EtXMeLQZsapVg2NJxD/giphy.gif' width=200>
 
 
 
