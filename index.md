@@ -32,6 +32,8 @@ Flix Movie Application that allows users to browse movies from currently ongoing
 
 
 
+
+
 ### Twitter Clone
 
 Twitter clone for iOS/Android displaying a list of tweets using the [Twitter's API](https://developer.twitter.com/en/docs). <br />
