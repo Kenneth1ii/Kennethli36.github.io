@@ -19,9 +19,10 @@ Features include ability to create, read, update and delete excerises.
 <img src='https://media0.giphy.com/media/8pLKimmQ4fDZgozoSR/giphy.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 
-# Mobile Application 
+# Mobile Applications
 
 ## FlixMovies
+
 Flix Movie Application that allows users to browse movies from currently ongoing airing movies.
 
 [iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
