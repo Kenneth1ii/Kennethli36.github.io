@@ -19,7 +19,7 @@ Features include ability to create, read, update and delete excerises.
 <img src='http://g.recordit.co/HxciVoy2pE.gif' title='Video Walkthrough' width='550' alt='Video Walkthrough' />
 
 
-## Mobile Application 
+# Mobile Application 
 
 ### FlixMovies
 Flix Movie Application that allows users to browse movies from currently ongoing airing movies.
