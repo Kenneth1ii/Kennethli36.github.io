@@ -1,6 +1,6 @@
-## Projects
+# Projects
 
-### Web Applications
+## Web Applications
 
 ### GameState
 Rpg Demo using Javascript: [View Project Here](https://kennethli36.github.io/GameState/)
