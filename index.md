@@ -13,6 +13,14 @@ TileMap editior using Canvas allowing you to edit tile changes/layers and export
 
 ![tileMap](https://media4.giphy.com/media/FvYy7EKzMcLBf60rzI/giphy.gif)
 
+### Mern Stack Excerise Tracker
+
+Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
+Features include ability to create, read, update and delete excerises. 
+
+<img src='http://g.recordit.co/HxciVoy2pE.gif' title='Video Walkthrough' width='550' alt='Video Walkthrough' />
+
+
 ## Mobile Application 
 
 ### FlixMovies
