@@ -28,11 +28,9 @@ Flix Movie Application that allows users to browse movies from currently ongoing
 [Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
 
 <img src="http://g.recordit.co/qhXQG4HK4f.gif" width=250>               
-
-
-
-
-
+<br>
+<br>
+<br>
 
 ### Twitter Clone
 
