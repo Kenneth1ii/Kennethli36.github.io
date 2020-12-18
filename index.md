@@ -34,7 +34,6 @@ Twitter clone for iOS/Android displaying a list of tweets using the [Twitter's A
 Features include ability to tweet, rewteet, like and post photos.
 
 [iOS Version Here](https://github.com/Kennethli36/TwitterClone)
-
 [Android Version Here](https://github.com/Kennethli36/TwitterCloneAndroid)
 
 <img src='http://g.recordit.co/bEzevlkREu.gif' width=200> 
