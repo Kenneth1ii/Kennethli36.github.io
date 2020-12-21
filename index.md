@@ -6,16 +6,16 @@
 ![DEMO RPG GIF](https://media1.giphy.com/media/VUVZMl5j68NkgPrIsY/giphy.gif)
 
 ## TileMap Editor
-Map Tile Selection Editor [View Project Here](https://kennethli36.github.io/TileMap) \
-TileMap editior using Canvas allowing you to edit tile changes/layers and export to PNG file.
+>Map Tile Selection Editor [View Project Here](https://kennethli36.github.io/TileMap) \
+>TileMap editior using Canvas allowing you to edit tile changes/layers and export to PNG file.
 
 ![tileMap](https://media4.giphy.com/media/FvYy7EKzMcLBf60rzI/giphy.gif)
 
 ## Mern Stack Excerise Tracker 
 [View Project Here](https://github.com/Kennethli36/Excerise-Tracker)
 
-Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
-Features include ability to create, read, update and delete excerises. 
+>Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
+>Features include ability to create, read, update and delete excerises. 
 
 <img src='https://media0.giphy.com/media/8pLKimmQ4fDZgozoSR/giphy.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
@@ -23,10 +23,10 @@ Features include ability to create, read, update and delete excerises.
 # Mobile Applications
 
 ## FlixMovies
-Flix Movie Application that allows users to browse movies from currently ongoing airing movies
+>Flix Movie Application that allows users to browse movies from currently ongoing airing movies
 
-[View iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
-[View Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
+>[View iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
+>[View Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
 
 <img src="https://media3.giphy.com/media/rqiTXf4wj4k0K7W60Z/giphy.gif" width=250>
 
@@ -36,8 +36,8 @@ Flix Movie Application that allows users to browse movies from currently ongoing
 
 ## Twitter Clone
 
-Twitter clone for iOS/Android displaying a list of tweets using the [Twitter's API](https://developer.twitter.com/en/docs). <br />
-Features include ability to tweet, rewteet, like and post photos.
+>Twitter clone for iOS/Android displaying a list of tweets using the [Twitter's API](https://developer.twitter.com/en/docs). <br />
+>Features include ability to tweet, rewteet, like and post photos.
 
 [iOS Version Here](https://github.com/Kennethli36/TwitterClone) <br />
 [Android Version Here](https://github.com/Kennethli36/TwitterCloneAndroid)
@@ -48,8 +48,8 @@ Features include ability to tweet, rewteet, like and post photos.
 
 ## Instagram Clone
 
-Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS. \
-Features include Post, Like, comment.
+>Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS. \
+>Features include Post, Like, comment.
 
 [View iOS Version Here](https://github.com/Kennethli36/InstagramClone) \
 [View Android Version Here](https://github.com/Kennethli36/ParseAndroid)
