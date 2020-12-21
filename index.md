@@ -1,13 +1,13 @@
 # Web Applications
 
 ## GameState - DemoRpg
->Rpg Demo using Javascript: [View Project Here](https://kennethli36.github.io/GameState/) 
+>_**Rpg Demo using Javascript: [View Project Here](https://kennethli36.github.io/GameState/)**_ 
 
 ![DEMO RPG GIF](https://media1.giphy.com/media/VUVZMl5j68NkgPrIsY/giphy.gif)
 
 ## TileMap Editor
 >Map Tile Selection Editor [View Project Here](https://kennethli36.github.io/TileMap) \
->TileMap editior using Canvas allowing you to edit tile changes/layers and export to PNG file.
+>**TileMap editior using Canvas allowing you to edit tile changes/layers and export to PNG file.**
 
 ![tileMap](https://media4.giphy.com/media/FvYy7EKzMcLBf60rzI/giphy.gif)
 
@@ -15,7 +15,7 @@
 [View Project Here](https://github.com/Kennethli36/Excerise-Tracker)
 
 >Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
->Features include ability to create, read, update and delete excerises. 
+>_Features include ability to create, read, update and delete excerises._ 
 
 <img src='https://media0.giphy.com/media/8pLKimmQ4fDZgozoSR/giphy.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
