@@ -1,21 +1,21 @@
 # Web Applications
 
 ## GameState - DemoRpg
->_**Rpg Demo using Javascript: [View Project Here](https://kennethli36.github.io/GameState/)**_ 
+>_Rpg Demo using Javascript: [View Project Here](https://kennethli36.github.io/GameState/)_ 
 
 ![DEMO RPG GIF](https://media1.giphy.com/media/VUVZMl5j68NkgPrIsY/giphy.gif)
 
 ## TileMap Editor
->Map Tile Selection Editor [View Project Here](https://kennethli36.github.io/TileMap) \
->**TileMap editior using Canvas allowing you to edit tile changes/layers and export to PNG file.**
+>_Map Tile Selection Editor [View Project Here](https://kennethli36.github.io/TileMap) \
+>TileMap editior using Canvas allowing you to edit tile changes/layers and export to PNG file._
 
 ![tileMap](https://media4.giphy.com/media/FvYy7EKzMcLBf60rzI/giphy.gif)
 
 ## Mern Stack Excerise Tracker 
 [View Project Here](https://github.com/Kennethli36/Excerise-Tracker)
 
->Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
->_Features include ability to create, read, update and delete excerises._ 
+>_Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
+>Features include ability to create, read, update and delete excerises._ 
 
 <img src='https://media0.giphy.com/media/8pLKimmQ4fDZgozoSR/giphy.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
@@ -23,10 +23,10 @@
 # Mobile Applications
 
 ## FlixMovies
->Flix Movie Application that allows users to browse movies from currently ongoing airing movies
+>_Flix Movie Application that allows users to browse movies from currently ongoing airing movies
 
 >[View iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
->[View Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)
+>[View Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)_
 
 <img src="https://media3.giphy.com/media/rqiTXf4wj4k0K7W60Z/giphy.gif" width=250>
 
@@ -45,14 +45,15 @@
 <img src='https://media1.giphy.com/media/lZonIp91lY47ipTSk0/giphy.gif' width=200> 
 
 <br>
+<br>
 
 ## Instagram Clone
 
->Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS. \
+>_Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS. \
 >Features include Post, Like, comment.
 
-[View iOS Version Here](https://github.com/Kennethli36/InstagramClone) \
-[View Android Version Here](https://github.com/Kennethli36/ParseAndroid)
+>[View iOS Version Here](https://github.com/Kennethli36/InstagramClone) \
+>[View Android Version Here](https://github.com/Kennethli36/ParseAndroid)_
 
 <img src='https://media1.giphy.com/media/EtXMeLQZsapVg2NJxD/giphy.gif' width=200>
 
