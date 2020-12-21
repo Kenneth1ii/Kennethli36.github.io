@@ -12,9 +12,8 @@
 ![tileMap](https://media4.giphy.com/media/FvYy7EKzMcLBf60rzI/giphy.gif)
 
 ## Mern Stack Excerise Tracker 
-[View Project Here](https://github.com/Kennethli36/Excerise-Tracker)
 
->_Excerise tracker is full MERN stack application that keeps track of user excerise logs.   \
+>_Excerise tracker is full MERN stack application that keeps track of user excerise logs. [View Project Here](https://github.com/Kennethli36/Excerise-Tracker)  \
 >Features include ability to create, read, update and delete excerises._ 
 
 <img src='https://media0.giphy.com/media/8pLKimmQ4fDZgozoSR/giphy.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
@@ -36,17 +35,17 @@
 
 ## Twitter Clone
 
->Twitter clone for iOS/Android displaying a list of tweets using the [Twitter's API](https://developer.twitter.com/en/docs). <br />
+>_Twitter clone for iOS/Android displaying a list of tweets using the [Twitter's API](https://developer.twitter.com/en/docs). <br />
 >Features include ability to tweet, rewteet, like and post photos.
 
-[iOS Version Here](https://github.com/Kennethli36/TwitterClone) <br />
-[Android Version Here](https://github.com/Kennethli36/TwitterCloneAndroid)
+>[iOS Version Here](https://github.com/Kennethli36/TwitterClone) <br />
+>[Android Version Here](https://github.com/Kennethli36/TwitterCloneAndroid)_
 
 <img src='https://media1.giphy.com/media/lZonIp91lY47ipTSk0/giphy.gif' width=200> 
 
 <br>
 <br>
-
+<br> 
 ## Instagram Clone
 
 >_Instagram clone displaying a list of post using [Parse Server](https://docs.parseplatform.org/parse-server/guide/) running on NodeJS. \
