@@ -6,7 +6,7 @@
 ![DEMO RPG GIF](https://media1.giphy.com/media/VUVZMl5j68NkgPrIsY/giphy.gif)
 
 ## Commerces
->_Website for commerces to list items for auction: [View Project Here](https://github.com/Kennethli36/Commerces)_
+>_Commerces webiste to list items for auction: [View Project Here](https://github.com/Kennethli36/Commerces)_
 
 ![Commerces](https://media.giphy.com/media/FQml6vOpg9xsUNC7Cm/giphy.gif)
 
