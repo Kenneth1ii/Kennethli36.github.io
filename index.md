@@ -27,7 +27,7 @@
 # Mobile Applications
 
 ## FlixMovies
->_Flix Movie Application that allows users to browse movies from currently ongoing airing movies
+>_Flix Movie Application that allows users to browse movies from currently ongoing airing movies.
 
 >[View iOS Version Here](https://github.com/Kennethli36/FlixMovie) <br />
 >[View Android Version Here](https://github.com/Kennethli36/FlixsterAndroid)_
